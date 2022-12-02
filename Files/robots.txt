@@ -1,0 +1,5 @@
+Sitemap: https://jadi.net/sitemap.xml
+Sitemap: https://jadi.net/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
